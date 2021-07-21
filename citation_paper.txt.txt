@@ -1,0 +1,3 @@
+A. Kline, J. Chung, W. Rahmani, J. Chun, 
+"Semi-Supervised Segmentation of Renal Pathology: AnAlternative to Manual Segmentation and as Input to Deep Learning Training",
+(accepted IEEE EMBC 2021)
